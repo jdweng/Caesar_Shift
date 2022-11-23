@@ -1,2 +1,2 @@
 # Ceaser_Shift
-Code related to decoding ceaser shifts from inputted files
+Code related to decoding caesar shifts from input files or entered text
